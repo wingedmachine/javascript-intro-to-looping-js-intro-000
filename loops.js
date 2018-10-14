@@ -4,7 +4,3 @@ function forLoop(array) {
   }
   return array;
 }
-
-function whileLoop(n-- > 0) {
-  console.log(n+1);
-}
